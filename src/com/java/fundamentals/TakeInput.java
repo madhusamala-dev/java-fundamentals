@@ -12,6 +12,7 @@ public class TakeInput {
         int salary;
         System.out.println("Enter Your Salary : ");
         salary = sc.nextInt();
+
         System.out.println("Age : " + age);
         System.out.println("Salary : " + salary);
         sc.close();
